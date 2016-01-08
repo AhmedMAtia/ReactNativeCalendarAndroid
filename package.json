@@ -15,9 +15,7 @@
     "material-design",
     "calendar"
   ],
-  "peerDependencies": {
-    "react-native": ">=0.15.0"
-  },
+  
   "author": "Do Anh Tu <chymtt@gmail.com>",
   "license": "MIT",
   "bugs": {
